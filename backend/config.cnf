@@ -1,0 +1,4 @@
+database = students_data
+user = root
+password = 
+default-character-set = utf8
